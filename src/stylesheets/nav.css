@@ -1,0 +1,33 @@
+/* Change the color of the hamburger icon to white */
+.nav-color {
+    background-color: #C2EFD4;
+    margin:0;
+}
+.log-in {
+    margin-left: 30px; /* Adjust this value to your liking */
+    background-color: transparent;
+    text-align: center;
+    padding:0 15px 2px 15px ;
+    font-size: 0.8rem;  
+    font-weight: 500;
+    border-color:#224F34;
+    border-radius: 5px;
+    color:#224F34;
+}
+.logo {
+    font-family: "elephant";
+    font-weight: 1000;
+    margin-left:20px;
+    padding-left: 30px;
+}
+.text {
+    font-size: 0.8rem;
+    font-weight: 500;
+    color:#224F34;
+}
+.color {
+    color:#224F34;
+}
+.navbar-nav .nav-item .nav-link {
+    color: #224F34 !important; /* Use !important if necessary to force the change */
+}
